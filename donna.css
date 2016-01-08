@@ -1,0 +1,15 @@
+body {
+  color: black;
+  background: #cdabcd;
+}
+
+.framed {
+  background:#decdde;
+  color: black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  padding: 5%;
+  border: solid;
+}
